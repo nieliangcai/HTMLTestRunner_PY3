@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-我市多余的一行
-=====
->>>>>>> change_site
+﻿我市多余的一行
+www.w3cschool.cn
